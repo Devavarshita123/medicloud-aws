@@ -29,3 +29,20 @@ VPC
 │
 └── Private DB Subnet B
     └── Amazon RDS
+
+
+## Internet Connectivity
+
+Internet
+    │
+Internet Gateway
+    │
+Public Route Table
+    │
+Public Subnets
+    │
+Application Load Balancer
+    │
+Private Application
+    │
+Amazon RDS
